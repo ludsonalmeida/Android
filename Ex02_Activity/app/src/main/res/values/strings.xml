@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ex02_Activity</string>
+
+    <string name="btn_toast">Exibir Toast</string>
+    <string name="action_settings">Configurações</string>
+    <string name="btn_tela2">Tela 2</string>
+    <string name="title_activity_tela2">Tela2Activity</string>
+
+
+
+    <string name="hello_world">Hello world!</string>
+</resources>
